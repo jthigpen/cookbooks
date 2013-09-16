@@ -1,5 +1,5 @@
 directory "/cookbook-test" do
   mode 0755
-  owner :root
+  owner "root"
   action :create
 end
